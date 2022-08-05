@@ -1,10 +1,5 @@
 
-<h1 style="text-align:center">
-  <br>
-  <a href="https://webatsign.com"><img src="./logo.png" alt="mohammad-reza-zamani" width="200"></a>
-  <br>
-  Mohammad Reza Zamani
-</h1>
+<h1 style="text-align:center">Mohammad Reza Zamani</h1>
 
 <h4 align="center">I'm SysAdmin and Full-Stack Web Developer</h4>
 
